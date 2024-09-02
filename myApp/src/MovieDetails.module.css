@@ -1,0 +1,18 @@
+
+
+.movieDetails {
+   display:inline-block;
+}
+
+.movieDetails:hover {
+    transform: scale(1.2);
+}
+
+.movieImage {
+    width: 185px; /* Matches the w185 size you used in the src */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    margin: 15px;
+}
+
